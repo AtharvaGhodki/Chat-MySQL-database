@@ -1,5 +1,5 @@
 ## Features
-- **Natural Language Processing**: Uses GPT-4 to interpret and respond to user queries in natural language.
+- **Natural Language Processing**: Uses GPT-4 and Mistral-ai to interpret and respond to user queries in natural language.
 - **SQL Query Generation**: Dynamically generates SQL queries based on the user's natural language input.
 - **Database Interaction**: Connects to a SQL database to retrieve query results, demonstrating practical database interaction.
 - **Streamlit GUI**: Features a user-friendly interface built with Streamlit, making it easy for users of all skill levels.
